@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @githubebad
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Web development
